@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603652289186",
+    "project_id": "scnlotto",
+    "storage_bucket": "scnlotto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603652289186:android:5b8db013b129bfc11a9dfb",
+        "android_client_info": {
+          "package_name": "com.sit.scng_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603652289186-16ha2ock6olmqh72oqroo2jh6pq8q52i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaMcHt19Js1tqxaTaUguOvY4sRPbipNnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603652289186-16ha2ock6olmqh72oqroo2jh6pq8q52i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
